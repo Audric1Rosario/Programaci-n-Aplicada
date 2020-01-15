@@ -86,6 +86,11 @@ namespace AdivinaUnNumero
             streamWrite.Flush();
             streamWrite.Close();
         }
+
+        public String ReadScores()
+        {
+            return File.ReadAllText(ScorePath);
+        }
         #endregion
 
     }

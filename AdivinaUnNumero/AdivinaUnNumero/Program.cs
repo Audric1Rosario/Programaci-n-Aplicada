@@ -14,6 +14,10 @@ namespace AdivinaUnNumero
             CurrentGame.GameInit();
             inputThread = new Thread(Input);
             inputThread.Start();
+
+            Console.WriteLine("Data:");
+            Console.Write(CurrentGame.ReadScores());
+            Console.WriteLine();
             while(CurrentGame.CurrentState != Game.eGameState.Over)
             {
                 switch (CurrentGame.CurrentState)
@@ -54,6 +58,9 @@ namespace AdivinaUnNumero
             Console.WriteLine("Muchas gracias por jugar :D");
             CurrentGame.SaveState();
             Console.ReadKey();
+            inputThread.Abort();
+            inputThread.Join();
+
         }
 
         static void Input()
