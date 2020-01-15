@@ -1,0 +1,11 @@
+C:\Users\audri\Desktop\New Workspace\Programaci-n-Aplicada\AdivinaUnNumero\AdivinaUnNumero\bin\Debug\netcoreapp2.0\AdivinaUnNumero.deps.json
+C:\Users\audri\Desktop\New Workspace\Programaci-n-Aplicada\AdivinaUnNumero\AdivinaUnNumero\bin\Debug\netcoreapp2.0\AdivinaUnNumero.runtimeconfig.json
+C:\Users\audri\Desktop\New Workspace\Programaci-n-Aplicada\AdivinaUnNumero\AdivinaUnNumero\bin\Debug\netcoreapp2.0\AdivinaUnNumero.runtimeconfig.dev.json
+C:\Users\audri\Desktop\New Workspace\Programaci-n-Aplicada\AdivinaUnNumero\AdivinaUnNumero\bin\Debug\netcoreapp2.0\AdivinaUnNumero.dll
+C:\Users\audri\Desktop\New Workspace\Programaci-n-Aplicada\AdivinaUnNumero\AdivinaUnNumero\bin\Debug\netcoreapp2.0\AdivinaUnNumero.pdb
+C:\Users\audri\Desktop\New Workspace\Programaci-n-Aplicada\AdivinaUnNumero\AdivinaUnNumero\obj\Debug\netcoreapp2.0\AdivinaUnNumero.csprojAssemblyReference.cache
+C:\Users\audri\Desktop\New Workspace\Programaci-n-Aplicada\AdivinaUnNumero\AdivinaUnNumero\obj\Debug\netcoreapp2.0\AdivinaUnNumero.csproj.CoreCompileInputs.cache
+C:\Users\audri\Desktop\New Workspace\Programaci-n-Aplicada\AdivinaUnNumero\AdivinaUnNumero\obj\Debug\netcoreapp2.0\AdivinaUnNumero.AssemblyInfoInputs.cache
+C:\Users\audri\Desktop\New Workspace\Programaci-n-Aplicada\AdivinaUnNumero\AdivinaUnNumero\obj\Debug\netcoreapp2.0\AdivinaUnNumero.AssemblyInfo.cs
+C:\Users\audri\Desktop\New Workspace\Programaci-n-Aplicada\AdivinaUnNumero\AdivinaUnNumero\obj\Debug\netcoreapp2.0\AdivinaUnNumero.dll
+C:\Users\audri\Desktop\New Workspace\Programaci-n-Aplicada\AdivinaUnNumero\AdivinaUnNumero\obj\Debug\netcoreapp2.0\AdivinaUnNumero.pdb
