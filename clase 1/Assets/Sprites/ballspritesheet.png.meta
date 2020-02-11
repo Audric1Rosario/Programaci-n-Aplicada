@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 8d4159fc5e167bc45ab74ba7fa3a7a95
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4172630373037532723
+    second: ballspritesheet_0
+  - first:
+      213: 4123163452741378149
+    second: ballspritesheet_1
+  - first:
+      213: -5596477871272956815
+    second: ballspritesheet_2
+  - first:
+      213: 4457603358448778225
+    second: ballspritesheet_3
+  - first:
+      213: 3037337503368982422
+    second: ballspritesheet_4
+  - first:
+      213: -2082817150467613921
+    second: ballspritesheet_5
+  - first:
+      213: -2103335396825398953
+    second: ballspritesheet_6
+  - first:
+      213: -730076255275656033
+    second: ballspritesheet_7
+  - first:
+      213: 1107475272841622914
+    second: ballspritesheet_8
+  - first:
+      213: -5780762111173202155
+    second: ballspritesheet_9
+  - first:
+      213: 6258513900549643630
+    second: ballspritesheet_10
+  - first:
+      213: 3261026335474283898
+    second: ballspritesheet_11
+  - first:
+      213: 2085956788745299428
+    second: ballspritesheet_12
+  - first:
+      213: -2246404792553531557
+    second: ballspritesheet_13
+  - first:
+      213: -5645564901630324193
+    second: ballspritesheet_14
+  - first:
+      213: -8917962906847541661
+    second: ballspritesheet_15
+  - first:
+      213: -3266922206171578060
+    second: ballspritesheet_16
+  - first:
+      213: 4582100183893539573
+    second: ballspritesheet_17
+  - first:
+      213: -363865260860694633
+    second: ballspritesheet_18
+  - first:
+      213: -5584941504268118244
+    second: ballspritesheet_19
+  - first:
+      213: -9040900341497649958
+    second: ballspritesheet_20
+  - first:
+      213: -1325521102748440202
+    second: ballspritesheet_21
+  - first:
+      213: -5228459060017279619
+    second: ballspritesheet_22
+  - first:
+      213: -5625777754802173861
+    second: ballspritesheet_23
+  - first:
+      213: 1449609334514248839
+    second: ballspritesheet_24
+  - first:
+      213: 6396500921375645281
+    second: ballspritesheet_25
+  - first:
+      213: 2246095101465870609
+    second: ballspritesheet_26
+  - first:
+      213: 4521285305407439329
+    second: ballspritesheet_27
+  - first:
+      213: -4602739467049637543
+    second: ballspritesheet_28
+  - first:
+      213: 2957924517128467763
+    second: ballspritesheet_29
+  - first:
+      213: 8929996848135029195
+    second: ballspritesheet_30
+  - first:
+      213: 5967250223709955991
+    second: ballspritesheet_31
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ballspritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33668eb773928e930800000000000000
+      internalID: 4172630373037532723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballspritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560e587905b683930800000000000000
+      internalID: 4123163452741378149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballspritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ce07907015552b0800000000000000
+      internalID: -5596477871272956815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballspritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb7de913a69cdd30800000000000000
+      internalID: 4457603358448778225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballspritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fa747ed5ac62a20800000000000000
+      internalID: 3037337503368982422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballspritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b594e36d85813e0800000000000000
+      internalID: -2082817150467613921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballspritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75187bcb9937fc2e0800000000000000
+      internalID: -2103335396825398953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballspritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cd851938f3ed5f0800000000000000
+      internalID: -730076255275656033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballspritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285f04b94ea8e5f00800000000000000
+      internalID: 1107475272841622914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballspritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51feb78dc7b96cfa0800000000000000
+      internalID: -5780762111173202155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballspritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 128
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d1b18cb35bad650800000000000000
+      internalID: 6258513900549643630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballspritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 128
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a757329ac2e714d20800000000000000
+      internalID: 3261026335474283898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballspritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 128
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e56af1c5aec2fc10800000000000000
+      internalID: 2085956788745299428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballspritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 128
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b579c1e3eba23d0e0800000000000000
+      internalID: -2246404792553531557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballspritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 128
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1259e922ace6a1b0800000000000000
+      internalID: -5645564901630324193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballspritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 128
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3660e315cf70d3480800000000000000
+      internalID: -8917962906847541661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballspritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 64
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431ce48ff8f89a2d0800000000000000
+      internalID: -3266922206171578060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballspritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 64
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faf93a17d3e69f30800000000000000
+      internalID: 4582100183893539573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballspritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 64
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f1b4c197a43faf0800000000000000
+      internalID: -363865260860694633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballspritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 64
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1753caca4d4e72b0800000000000000
+      internalID: -5584941504268118244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballspritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 64
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad423574a05488280800000000000000
+      internalID: -9040900341497649958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballspritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 64
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6792568749dca9de0800000000000000
+      internalID: -1325521102748440202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballspritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 64
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d4ffcbf28c077b0800000000000000
+      internalID: -5228459060017279619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballspritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 64
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58c8bb40f83de1b0800000000000000
+      internalID: -5625777754802173861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballspritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cefc6620c0e1410800000000000000
+      internalID: 1449609334514248839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballspritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16edd08a2bfe4c850800000000000000
+      internalID: 6396500921375645281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballspritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1114e9e289bbb2f10800000000000000
+      internalID: 2246095101465870609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballspritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1010dc705debe30800000000000000
+      internalID: 4521285305407439329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballspritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959e5d057d8cf10c0800000000000000
+      internalID: -4602739467049637543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballspritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3357cd33da8ac0920800000000000000
+      internalID: 2957924517128467763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballspritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1427af1d8bdeb70800000000000000
+      internalID: 8929996848135029195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballspritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7972a1e667eefc250800000000000000
+      internalID: 5967250223709955991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

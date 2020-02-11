@@ -1,0 +1,11 @@
+C:\Users\Luisa Rosario\Desktop\Audric\GravilotaWebService\GravilotaModel\bin\Debug\GravilotaModel.dll.config
+C:\Users\Luisa Rosario\Desktop\Audric\GravilotaWebService\GravilotaModel\bin\Debug\GravilotaModel.dll
+C:\Users\Luisa Rosario\Desktop\Audric\GravilotaWebService\GravilotaModel\bin\Debug\GravilotaModel.pdb
+C:\Users\Luisa Rosario\Desktop\Audric\GravilotaWebService\GravilotaModel\bin\Debug\EntityFramework.dll
+C:\Users\Luisa Rosario\Desktop\Audric\GravilotaWebService\GravilotaModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Luisa Rosario\Desktop\Audric\GravilotaWebService\GravilotaModel\bin\Debug\EntityFramework.xml
+C:\Users\Luisa Rosario\Desktop\Audric\GravilotaWebService\GravilotaModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Luisa Rosario\Desktop\Audric\GravilotaWebService\GravilotaModel\obj\Debug\GravilotaModel.csprojAssemblyReference.cache
+C:\Users\Luisa Rosario\Desktop\Audric\GravilotaWebService\GravilotaModel\obj\Debug\GravilotaModel.csproj.CopyComplete
+C:\Users\Luisa Rosario\Desktop\Audric\GravilotaWebService\GravilotaModel\obj\Debug\GravilotaModel.dll
+C:\Users\Luisa Rosario\Desktop\Audric\GravilotaWebService\GravilotaModel\obj\Debug\GravilotaModel.pdb
